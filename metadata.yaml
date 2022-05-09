@@ -1,11 +1,16 @@
 _repo: A-Statement-of-Facts-Tending-to-Establish-an-Estimate-of-the-True-Value-and-Present-State-of-__67824
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67824-h/images/cover.jpg
 creator:
   author:
     agent_name: Blaine, Gilbert
     gutenberg_agent_id: '54478'
     url: http://www.gutenberg.org/2009/agents/54478
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67824#A-Statement-of-Facts-Tending-to-Establish-an-Estimate-of-the-True-Value-and-Present-State-of-_
 gutenberg_issued: '2022-04-13'
 identifiers:
   gutenberg: '67824'
